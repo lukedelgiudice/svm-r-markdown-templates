@@ -6,7 +6,7 @@ output:
     fig_caption: true
     latex_engine: pdflatex
     template: ../svm-latex-ms.tex
-bibliography: master.bib
+bibliography: master2.bib
 header-includes:
   -  \usepackage{hyperref}
   - \usepackage{array}   
